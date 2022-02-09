@@ -1,0 +1,24 @@
+//? HOLD GLOBAL VARIABLE IN THIS FILE
+
+// import base font
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+* {
+	font-family: 'Raleway';
+}
+@import 'sassy';
+
+// Set default application color palette
+$primary: orange;
+$primary-accent: rgb(255, 232, 189);
+$primary-grey: #646464;
+$overlay: #64646485;
+$primary-green: rgb(138, 223, 112);
+
+// Sets default icon sizes
+$icon-size-sm: 1.5em;
+$icon-size-md: 2em;
+$icon-size-lg: 2.5em;
+$icon-size-xl: 3em;
+
+// border radius
+$border-radius: 5px;
